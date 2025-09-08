@@ -1,7 +1,7 @@
 # Marketing Campaign Performance Dashboard
 
 This project analyzes Google Analytics sample e-commerce data to understand how different marketing campaigns perform.  
-I built an end-to-end pipeline that connects **BigQuery (SQL)** → **Python (data cleaning + automation)** → **Power BI (interactive dashboard)**.  
+I built an end-to-end pipeline that connects **BigQuery (SQL)** → **Python (data cleaning + automation)**.  
 
 ---
 
